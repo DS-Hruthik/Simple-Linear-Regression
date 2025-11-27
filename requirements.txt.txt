@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+sqlalchemy
+pymysql
+joblib
+feature-engine
+Pillow
+sweetviz
